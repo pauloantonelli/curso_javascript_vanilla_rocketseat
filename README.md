@@ -1,1 +1,2 @@
 # curso_javascript_vanilla_rocketseat
+# curso_javascript_vanilla_rocketseat
